@@ -63,7 +63,14 @@ AI assistants answer buying questions by retrieving structured content that give
 
 This is the same content methodology Visibility Mesh runs for AI commerce visibility. Learn more at [visibilitymesh.com](https://visibilitymesh.com).
 
+## Market research
+
+The comparison content is backed by primary research on the premium fashion brands the store positions against. Luna Fashion House is positioned as functional luxury: the accessible, wearable alternative.
+
+- **[brand-research.md](./brand-research.md)** — dense, source-cited research on 21 premium and quiet luxury brands: positioning, price ranges with real figures, signature products, origin, and target customer, each with sources.
+
 ## Data
 
 - [content-program.json](./content-program.json): all 84 articles with intent cluster and status.
 - [comparisons.json](./comparisons.json): the 21 brand alternative comparisons.
+- [brand-research.json](./brand-research.json): machine-readable brand research dataset.
