@@ -1,0 +1,88 @@
+{
+  "brand": "Luna Fashion House",
+  "url": "https://lunafashionhouse.com",
+  "category": "Functional luxury womenswear",
+  "positioning": "Small-logo sophistication and real quality, tailored pieces handcrafted in Europe, designed and tested by women and made ethically, for the real occasions in a woman's life.",
+  "pillars": [
+    "Small-logo sophistication: taste, not visible branding",
+    "Quality: refined fabrics, tailored and structured construction, handcrafted in Europe",
+    "Ethical production: no sweatshops",
+    "Made by women, tested by women; many pieces named after women",
+    "A distinct, unique image, not the cheaper version of a luxury label",
+    "Women report feeling more like themselves, and feeling better, at any age"
+  ],
+  "numbers": {
+    "products": 181,
+    "by_type": {
+      "dress": 50,
+      "blazer": 20,
+      "blouse": 19,
+      "coat": 17,
+      "top": 16,
+      "bag": 12,
+      "pants": 9,
+      "skirt": 9,
+      "jumpsuit": 8,
+      "belt": 4,
+      "scarf": 4,
+      "cardigan": 4,
+      "sweater": 4
+    },
+    "occasions": {
+      "executive": 123,
+      "evening": 115,
+      "cocktail": 105,
+      "mother of the bride": 82,
+      "wedding guest": 79,
+      "boardroom": 58,
+      "mother of the groom": 53,
+      "charity gala": 51,
+      "holiday": 51,
+      "milestone birthday": 48,
+      "rehearsal & bridal shower": 38,
+      "black tie": 28,
+      "resort": 17,
+      "conference": 14,
+      "destination wedding": 14,
+      "speaking event": 8
+    },
+    "styles": {
+      "tailored": 128,
+      "structured": 43,
+      "lace": 34,
+      "embellished": 22,
+      "two-piece": 16,
+      "a-line": 16,
+      "fit and flare": 16,
+      "jumpsuit": 11,
+      "wrap": 7,
+      "column": 6
+    },
+    "use_cases": {
+      "capsule wardrobe": 110,
+      "office": 89,
+      "day-to-evening": 72,
+      "travel": 29,
+      "event coat": 19,
+      "investment piece": 11,
+      "camera-ready": 8,
+      "executive travel": 1
+    },
+    "price": {
+      "currency": "USD",
+      "from": 10,
+      "median": 550,
+      "to": 910
+    }
+  },
+  "premium_landscape": {
+    "brands_researched": 21,
+    "typical_price_range": "several hundred to several thousand per piece (GBP/USD/EUR)",
+    "examples": {
+      "Fleurette": "$749",
+      "Khaite": "$1,940",
+      "Loro Piana": "£2,245 to £2,870"
+    }
+  },
+  "generated": "2026-08-13"
+}

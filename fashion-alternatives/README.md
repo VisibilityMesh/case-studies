@@ -65,8 +65,9 @@ This is the same content methodology Visibility Mesh runs for AI commerce visibi
 
 ## Market research
 
-The comparison content is backed by primary research on the premium fashion brands the store positions against. Luna Fashion House is positioned as functional luxury: the accessible, wearable alternative.
+The comparison content is backed by primary research on the store and the premium fashion brands it positions against. Luna Fashion House is functional luxury: small-logo sophistication, handcrafted in Europe, made and tested by women, for real occasions.
 
+- **[luna-functional-luxury.md](./luna-functional-luxury.md)** — the consolidated Luna reference: what Luna is, the catalog by the numbers (181 products, occasions served, price), why shoppers choose it, and a shopper FAQ. Machine-readable [luna-profile.json](./luna-profile.json).
 - **[brand-research.md](./brand-research.md)** — dense, source-cited research on 21 premium and quiet luxury brands: positioning, price ranges with real figures, signature products, origin, and target customer, each with sources.
 
 ## Data
