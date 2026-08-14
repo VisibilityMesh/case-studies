@@ -4,7 +4,7 @@ Real applications of the [Visibility Mesh](https://visibilitymesh.com) AEO and G
 
 ## Case studies
 
-- **[Fashion alternative comparisons](./fashion-alternatives)** — earning "alternatives to [premium brand]" AI answers for a live fashion store (Luna Fashion House). 21 researched brand comparisons, structured for answer engines. Includes a machine-readable dataset.
+- **[Fashion content program](./fashion-alternatives)** — a full applied AEO program for a live fashion store (Luna Fashion House): 84 researched articles across 8 intent clusters, including 21 "alternatives to [premium brand]" comparisons, all structured for answer engines. Includes machine-readable datasets.
 
 ## Part of Visibility Mesh
 

@@ -1,0 +1,609 @@
+{
+  "title": "Fashion AEO content program, an applied Visibility Mesh case study",
+  "subject": "Luna Fashion House (lunafashionhouse.com)",
+  "method": "Visibility Mesh AEO and GEO content methodology",
+  "generated": "2026-08-13",
+  "total_articles": 84,
+  "published_to_date": 8,
+  "researched_scheduled": 76,
+  "clusters": {
+    "style-principles": 13,
+    "body-type-guide": 12,
+    "investment-wardrobe": 6,
+    "brand-alternative": 21,
+    "occasion-dressing": 20,
+    "style-guide": 3,
+    "dress-code-guide": 5,
+    "seasonal-trend": 4
+  },
+  "articles": [
+    {
+      "title": "How to Look Expensive: The Quiet Luxury Wardrobe",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "Old Money Style for Women: Dressing Understated and Elegant",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "No Logo Luxury: Why the Most Expensive Looking Clothes Have No Branding",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "Quiet Luxury Coats: Understated Outerwear That Reads Expensive",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "Quiet Luxury Workwear: Office Dressing Without Loud Branding",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Dresses for an Apple Shape",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Dresses for a Pear Shape",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Dresses for an Hourglass Figure",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Dresses for Petite Women",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Dresses for Tall Women",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Coats by Body Type",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Investment Blazer: What to Look For and Why It Lasts",
+      "cluster": "investment-wardrobe",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Investment Dress: One Occasion Dress You Will Wear for Years",
+      "cluster": "investment-wardrobe",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "High Waisted Wide Leg Trousers: The Quiet Luxury Staple",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "Building a Wardrobe of Investment Pieces: Where to Start",
+      "cluster": "investment-wardrobe",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "The Elegant Jumpsuit: A Refined Alternative to the Occasion Dress",
+      "cluster": "investment-wardrobe",
+      "premium_brand": null,
+      "status": "scheduled August 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to The Row for Minimalist Tailoring",
+      "cluster": "brand-alternative",
+      "premium_brand": "The Row",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-the-row"
+    },
+    {
+      "title": "Alternatives to Toteme for the Understated Uniform",
+      "cluster": "brand-alternative",
+      "premium_brand": "Toteme",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-toteme"
+    },
+    {
+      "title": "Alternatives to Herno for Refined Outerwear",
+      "cluster": "brand-alternative",
+      "premium_brand": "Herno",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-herno"
+    },
+    {
+      "title": "Alternatives to Cinzia Rocca for Classic Wool Coats",
+      "cluster": "brand-alternative",
+      "premium_brand": "Cinzia Rocca",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-cinzia-rocca"
+    },
+    {
+      "title": "Alternatives to Roland Mouret for Structured Occasion Dresses",
+      "cluster": "brand-alternative",
+      "premium_brand": "Roland Mouret",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-roland-mouret"
+    },
+    {
+      "title": "Alternatives to Temperley London for Lace and Embellished Occasion Wear",
+      "cluster": "brand-alternative",
+      "premium_brand": "Temperley London",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-temperley-london"
+    },
+    {
+      "title": "Alternatives to Theia for Gala and Evening Gowns",
+      "cluster": "brand-alternative",
+      "premium_brand": "Theia",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-theia"
+    },
+    {
+      "title": "Alternatives to Khaite for Structured Tailoring",
+      "cluster": "brand-alternative",
+      "premium_brand": "Khaite",
+      "status": "published",
+      "url": "https://lunafashionhouse.com/blogs/shopping-guides/alternatives-to-khaite"
+    },
+    {
+      "title": "Alternatives to Loro Piana for Understated Coats",
+      "cluster": "brand-alternative",
+      "premium_brand": "Loro Piana",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Brunello Cucinelli for Soft Tailoring",
+      "cluster": "brand-alternative",
+      "premium_brand": "Brunello Cucinelli",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Fleurette for Classic Wool Coats",
+      "cluster": "brand-alternative",
+      "premium_brand": "Fleurette",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Beulah London for Wedding Guest Dressing",
+      "cluster": "brand-alternative",
+      "premium_brand": "Beulah London",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Stewart Parvin for Formal Daywear",
+      "cluster": "brand-alternative",
+      "premium_brand": "Stewart Parvin",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Marchesa Notte for Embellished Evening",
+      "cluster": "brand-alternative",
+      "premium_brand": "Marchesa Notte",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Zimmermann for Floral Occasion Dresses",
+      "cluster": "brand-alternative",
+      "premium_brand": "Zimmermann",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Sezane for Elevated French Style",
+      "cluster": "brand-alternative",
+      "premium_brand": "Sezane",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Sandro for Sharp Parisian Tailoring",
+      "cluster": "brand-alternative",
+      "premium_brand": "Sandro",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Maje for Feminine French Dresses",
+      "cluster": "brand-alternative",
+      "premium_brand": "Maje",
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Trousers by Body Type",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Jumpsuits by Body Type",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Blazers by Body Type",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Business Conference: Outfits for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Business Dinner: Outfits for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "The Business Travel Capsule for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear on the First Day of a New Executive Job",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Quiet Luxury Dresses: Understated Elegance That Reads Expensive",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Quiet Luxury Accessories: The Understated Finishing Touch",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "How to Build a French Wardrobe: The Understated Essentials",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "The Capsule Evening Wardrobe for Women",
+      "cluster": "investment-wardrobe",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "Investment Knitwear: Lace Sweaters and Cardigans Worth Keeping",
+      "cluster": "investment-wardrobe",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to the Opera or Symphony: A Guide for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Christening as a Guest or Godmother",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Graduation as a Guest: Outfits for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Vow Renewal: A Guide for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Retirement Party: Outfits for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to an Art Gallery Opening: A Guide for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Milestone Anniversary Party for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Formal Dinner Party: A Guide for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled September 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Fall Wedding as a Guest",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Fall Wedding Guest Dresses with Sleeves",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What Color to Wear to an October Wedding as a Guest",
+      "cluster": "style-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Winter Wedding Guest Dresses with Sleeves",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Fall Mother of the Bride Dresses",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What Is Cocktail Attire for Women? A Dress Code Guide",
+      "cluster": "dress-code-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Cocktail Attire with Pants for Women",
+      "cluster": "dress-code-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Winter Cocktail Attire for Women",
+      "cluster": "dress-code-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Petite Cocktail Dresses for Women",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Midi Cocktail Dresses for Women",
+      "cluster": "style-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What Is Quiet Luxury? A Guide for Women",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What Makes a Woman Look Elegant",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What Is the 3 3 3 Rule for Clothes?",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "How to Look Slimmer in a Dress",
+      "cluster": "style-principles",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "The Coat Styles in Fashion for 2026",
+      "cluster": "seasonal-trend",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Dressy Winter Coats for Women",
+      "cluster": "seasonal-trend",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Work Event: A Guide for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to an Office Holiday Party",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What Not to Wear to a Gala",
+      "cluster": "dress-code-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "What to Wear to a Funeral: A Guide for Women",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Event Dress Codes Explained for Women",
+      "cluster": "dress-code-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "The 2026 Wedding Guest Dress Trends",
+      "cluster": "occasion-dressing",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Long Sleeve Evening Dresses for Women",
+      "cluster": "style-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to ba and sh for Parisian Dresses",
+      "cluster": "brand-alternative",
+      "premium_brand": "ba and sh",
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Cefinn for Workwear Dresses",
+      "cluster": "brand-alternative",
+      "premium_brand": "Cefinn",
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "Alternatives to Whistles for Polished Occasion Wear",
+      "cluster": "brand-alternative",
+      "premium_brand": "Whistles",
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "How to Transition Your Wardrobe from Summer to Fall",
+      "cluster": "seasonal-trend",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Coats for Petite Women",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "The Most Flattering Coats for Tall Women",
+      "cluster": "body-type-guide",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    },
+    {
+      "title": "The Best Fall Colors for Women and What to Wear",
+      "cluster": "seasonal-trend",
+      "premium_brand": null,
+      "status": "scheduled October 2026",
+      "url": null
+    }
+  ]
+}
